@@ -1,5 +1,5 @@
 <h1>Hello! be welcome 🖖</h1>
-Prazer, meu nome é Ana Poliana Mesquita. Sou estudande de engenharia da Computação na Universidade Federal do Maranhão.
+Prazer, meu nome é Ana Poliana Mesquita. Sou estudante de Engenharia da Computação na Universidade Federal do Maranhão.
 
 ## 🌐 Socials:
 <div style="display: inline_block">
